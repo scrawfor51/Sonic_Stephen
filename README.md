@@ -5,6 +5,16 @@ This project was created in December of 2020.
 The purpose of this project is to create an interesting, calming musical piece. 
 Stylistically, the project uses basic coding structures such as loops and calls, however, the program (which should be run using Sonic Pi: https://sonic-pi.net/), also uses a variety of musical techniques to try to create its target effect. 
 
+To run the song:
+
+1. Download the OS appropriate version of Sonic Pi from https://sonic-pi.net/.
+
+2. Dowload the sonic_stephen_final.rb file.
+
+3. Open the file in Sonic Pi and press the play button located in the top left corner. 
+
+NOTE: Sonic Pi is not compatible with MacOS Big Sur.
+
 Brainstorm:
 
 C, E, G
