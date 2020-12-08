@@ -17,7 +17,7 @@ To run the song:
 NOTE: Sonic Pi is not compatible with MacOS Big Sur.
 
 The included small_sample.wav file can be run natively on download on most OS. It is simply the first few seconds of the song as an example.
-For a full music video and song please visit: 
+For a full music video and song please visit: https://youtu.be/kR5S3j9rEjs
 
 Brainstorm:
 
