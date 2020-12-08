@@ -2,6 +2,7 @@ Every Now and Then
 
 Stephen Crawford
 This project was created in December of 2020. 
+
 The purpose of this project is to create an interesting, calming musical piece. 
 Stylistically, the project uses basic coding structures such as loops and calls, however, the program (which should be run using Sonic Pi: https://sonic-pi.net/), also uses a variety of musical techniques to try to create its target effect. 
 
@@ -14,6 +15,9 @@ To run the song:
 3. Open the file in Sonic Pi and press the play button located in the top left corner. 
 
 NOTE: Sonic Pi is not compatible with MacOS Big Sur.
+
+The included small_sample.wav file can be run natively on download on most OS. It is simply the first few seconds of the song as an example.
+For a full music video and song please visit: 
 
 Brainstorm:
 
