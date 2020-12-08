@@ -432,7 +432,7 @@ in_thread do
   end
 end
 
-##| # trail off rif at 40
+# end
 in_thread do
   70.times do
     sleep 4
